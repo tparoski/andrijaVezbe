@@ -6,3 +6,4 @@ var color = ["white", "green", "red"];
 color.forEach(function(color){
     console.log(color);
 });
+var razred = ["maja", "pera"];
